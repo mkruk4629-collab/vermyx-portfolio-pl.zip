@@ -24,7 +24,7 @@ Linux · Networking · Security Labs · OSINT · Web Security
 |---|---|---|
 | Pokoje / Completed rooms | [Katalog pokojów](pl/progress/ROOMS.md) | [Room catalogue](en/progress/ROOMS.md) |
 | Roadmapa / Learning roadmap | [Plan rozwoju](pl/ROADMAP.md) | [Learning roadmap](en/ROADMAP.md) |
-| Notatki / Lab notes | [Szablon notatek](pl/templates/LAB_NOTE_TEMPLATE.md) | [Lab note template](en/templates/LAB_NOTE_TEMPLATE.md) |
+| Notatki / Lab notes | [Szablon notatek](pl/templates/LAB_NOTE_TEMPLATE.md) · [Przykładowa notatka FTP](pl/notes/ftp-service-enumeration.md) | [Lab note template](en/templates/LAB_NOTE_TEMPLATE.md) |
 | Profil GitHub / GitHub profile | [README PL](github-profile/README_PL.md) | [README EN](github-profile/README.md) |
 | Bio GitHub | [Bio do skopiowania](github-profile/BIO.md) | |
 
